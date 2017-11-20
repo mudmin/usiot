@@ -1,0 +1,48 @@
+Please let me know if any of these links go bad.
+
+My favorite Arduino Kits: (These are all good)
+https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=elegoo+arduino+kit
+
+Parts used in demo video
+Arduino Mega with Cable - $9 https://www.aliexpress.com/item/Free-Shipping-MEGA2560-R3-MEGA2560-REV3-ATMEGA2560-16AU-Board-USB-Cable-compatible-We-are-the-manufacturer/32513419382.html
+
+OR Arduino Uno with Cable ($2.75)
+https://www.aliexpress.com/item/Best-prices-high-quality-UNO-R3-MEGA328P-for-Arduino-UNO-R3-NO-USB-CABLE/32582460587.html
+
+NeoPixel style LED RGB Multicolor
+1 LED ($.58) - https://www.aliexpress.com/item/RGB-LED-Ring-1-Bits-LEDs-WS2812-5050-RGB-LED-Ring-Lamp-Light-with-Integrated-Drivers/32740719015.html
+
+7 LEDs ($.90) - https://www.aliexpress.com/item/7-Bits-7-X-WS2812-5050-RGB-LED-Ring-Lamp-Light-with-Integrated-Drivers/32648332469.html
+
+8 LEDs ($1.00) - https://www.aliexpress.com/item/8-Bits-8-X-WS2812-5050-RGB-LED-Ring-Lamp-Light-with-Integrated-Drivers/32674336535.html
+
+16 LEDs ($1.27) - https://www.aliexpress.com/item/16-Bits-16-X-WS2812-5050-RGB-LED-Ring-Lamp-Light-with-Integrated-Drivers/32673262840.html
+
+
+DS18B20 Temperature Probe ($.95) - https://www.aliexpress.com/item/MK00241-Stainless-steel-waterproof-package-type-DS18b20-temperature-probe-temperature-sensor-18B20/32658611153.html
+
+OptoCoupler Relays
+
+1 Channel ($.90) - https://www.aliexpress.com/item/1-Channel-Optocoupler-Relay-Module-Support-High-and-Low-Trigger-DC-5V-9V-12V-24V/32757050140.html
+
+2 Channels ($.97) -
+https://www.aliexpress.com/item/free-shipping-1pcs-4-channel-relay-module-4-channel-relay-modules-relay-control-board-with-optocoupler/32689551634.html
+
+4 Channels  ($1.99) -
+https://www.aliexpress.com/item/4-channel-relay-module-4-channel-relay-control-board-with-optocoupler-Relay-Output-4-way-relay/32649659086.html
+
+8 Channels ($3.80) - https://www.aliexpress.com/item/1pcs-lot-With-optocoupler-8-channel-8-channel-relay-modules-relay-control-panel-PLC-relay-5V/32649228196.html
+
+Other Great Things to have
+All 3 Kinds of Jumper Wire - ($1.88) -
+https://www.aliexpress.com/item/Dupont-line-120pcs-10cm-male-to-male-male-to-female-and-female-to-female-jumper-wire/32825558073.html
+
+Breadboard - ($1.49)
+https://www.aliexpress.com/item/Full-sized-breadboard-for-arduino-kits-for-raspberry-pi-kits/893485955.html
+
+Other Fun stuff
+LCD Button Shield ($2.32) -
+https://www.aliexpress.com/item/Free-shipping-LCD-Keypad-Shield-of-the-LCD1602-character-LCD-input-and-output-expansion-board-For/1867713824.html
+
+Learning shield ($1.77) -
+https://www.aliexpress.com/item/Free-Shipping-for-Arduino-Multifunctional-Expansion-Development-Board-DIY-Kit-Based-Learning-UNO-R3-LENARDO-Mega/32314123112.html
